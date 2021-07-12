@@ -1,3 +1,4 @@
+#KHU_KongBot1
 Mechanical Engineering project 
 
 This project's owner is M.H.Kim,S.W.Lee,K.M.Koo,J.W.Lee and H.J.Choi
@@ -28,3 +29,5 @@ $sudo python3 Srun.py
  $sudo python3 down.py
  
 thank you to read
+
+this version is reference For Our Next project KHUKONGBOT2 
